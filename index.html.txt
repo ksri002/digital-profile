@@ -1,9 +1,0 @@
-<DOCTYPE html>
-<html>
-<head>
-<title>digital profile</title>
-<body>
-<h1>apssdc</h1>
-<h2>rvr&jc</h2>
-</head>
-</body>
